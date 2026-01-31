@@ -1,4 +1,3 @@
-```markdown
 # Netflix Clone Project
 
 This project is a high-fidelity Netflix clone developed using React 19 and Firebase 12. It pulls real-time movie data from the TMDB API and provides a fully functional user authentication system.
@@ -64,4 +63,3 @@ The current build requires restricted API keys for TMDB and Firebase. In a produ
 ## License
 
 This project is open-source and available under the MIT License.
-```
