@@ -6,7 +6,7 @@ This project is a high-fidelity Netflix clone developed using React 19 and Fireb
 
 The application is built to demonstrate modern frontend development practices, focusing on performance, responsive design, and integration with third-party APIs. It includes a landing page with dynamic movie categories, a secure login/registration system, and a dedicated trailer player.
 
-[Example Image](preview.png)
+![Example Image](preview.png)
 
 ## Built With
 
