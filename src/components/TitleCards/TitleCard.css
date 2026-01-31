@@ -1,0 +1,72 @@
+.titlecards {
+    margin-top: 3.2rem;
+    margin-bottom: 2rem;
+}
+
+.title-cards {
+    margin-bottom: 8px;
+}
+
+.card-list {
+    display: flex;
+    margin-top: 5px;
+    gap: 0.5rem;
+    overflow-x: scroll;
+    scroll-behavior: smooth;
+}
+
+.card-list::-webkit-scrollbar {
+    display: none;
+}
+
+.card-list img {
+    width: 15rem;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.card-list .card {
+    position: relative;
+}
+
+.card-list p {
+    position: absolute;
+    bottom: 0.5rem;
+    right: 0.5rem;
+    text-decoration: none;
+    color: white;
+}
+
+@media (max-width: 800px) {
+    .title-cards {
+        margin-top: 1.5rem;
+        margin-bottom: 0;
+    }
+
+    .title-cards h2 {
+        font-size: 2rem;
+    }
+
+    .card-list img {
+        width: 200px;
+    }
+
+    .card-list p {
+        font-size: 0.8rem;
+    }
+}
+
+@media (max-width: 500px) {
+
+    .title-cards h2 {
+        font-size: 1rem;
+    }
+
+    .card-list img {
+        width: 165px;
+    }
+
+    /* .card-list p {
+        font-size: 0.6rem;
+    } */
+}
