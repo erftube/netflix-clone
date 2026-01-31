@@ -1,11 +1,11 @@
 # Netflix Clone Project
 
 This project is a high-fidelity Netflix clone developed using React 19 and Firebase 12. It pulls real-time movie data from the TMDB API and provides a fully functional user authentication system.
+[Netflix Clone | Live Demo]([https://example.com](https://subtle-centaur-4ff0ea.netlify.app/)
 
 ## Project Overview
 
 The application is built to demonstrate modern frontend development practices, focusing on performance, responsive design, and integration with third-party APIs. It includes a landing page with dynamic movie categories, a secure login/registration system, and a dedicated trailer player.
-[Netflix Clone | Live Demo]([https://example.com](https://subtle-centaur-4ff0ea.netlify.app/))
 ![Example Image](preview.png)
 
 ## Built With
